@@ -1,2 +1,3 @@
 # Springboard Projects
-1. unit 4.3: London Housing Case Study
+01. unit 4.3: London Housing Case Study
+02. unit 7.2: API Data Wrangling Mini-Project
