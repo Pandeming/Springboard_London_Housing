@@ -5,3 +5,4 @@
 04. unit 11.1: Frequentist Inference Case Study (Parts A & B)
 05. unit 11.3: Apps Case Study (Hypothesis Testing)
 06. unit 11.4: Red Wine Case Study (Linear Regression)
+07. unit 14.2: Logistic Regression
