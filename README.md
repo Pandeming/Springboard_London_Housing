@@ -6,3 +6,4 @@
 05. unit 11.3: Apps Case Study (Hypothesis Testing)
 06. unit 11.4: Red Wine Case Study (Linear Regression)
 07. unit 14.2: Logistic Regression
+08. unit 14.3: RR Diner Coffee Case Study (Decision Trees)
