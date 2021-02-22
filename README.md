@@ -10,3 +10,4 @@
 09. unit 14.4: COVID-19 Case Study (Random Forest)
 10. unit 14.5: Gradient Boosting Practice
 11. unit 15.2: Euclidean vs. Manhattan Distance
+12. unit 15.5: Cosine Similarity
