@@ -11,3 +11,4 @@
 10. unit 14.5: Gradient Boosting Practice
 11. unit 15.2: Euclidean vs. Manhattan Distance
 12. unit 15.5: Cosine Similarity
+13. unit 15.6: Customer Segmentation Case Study (PCA, Clustering)
