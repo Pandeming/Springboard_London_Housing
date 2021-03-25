@@ -13,3 +13,4 @@
 12. unit 15.5: Cosine Similarity
 13. unit 15.6: Customer Segmentation Case Study (PCA, Clustering)
 14. unit 18.2: Tuning Hyperparameters: Grid Search for kNN
+15. unit 18.2: Tuning Hyperparameters: Bayesian Optimization
