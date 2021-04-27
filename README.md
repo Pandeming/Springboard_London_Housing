@@ -14,3 +14,4 @@
 13. unit 15.6: Customer Segmentation Case Study (PCA, Clustering)
 14. unit 18.2: Tuning Hyperparameters: Grid Search for kNN
 15. unit 18.2: Tuning Hyperparameters: Bayesian Optimization
+16. unit 20.3: Storytelling: Shanghai Air Quality (Data Cleaning and Visualization)
